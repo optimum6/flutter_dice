@@ -1,31 +1,24 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-# Dicee 🎲
+#Dicee 🎲
+#My Achievement
+I am thrilled to share that I have successfully created the Dicee app! This project has given me valuable insights into core programming concepts that serve as the foundation for many future app development endeavors. By implementing setState() within Stateful Flutter widgets, I have learned how to add functionality to my apps.
 
-## Our Goal
+#My Creation
+In this project, I have built a Las Vegas dice app that allows me to roll the dice with a simple button press. This app is incredibly handy for settling scores on the go, anytime and anywhere!
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
+#Finished App
 
+#My Learning Journey
+Throughout the development of this app, I have gained knowledge and experience in various aspects, including:
 
-## What you will create
-
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
-
-## What you will learn
-
-- How to use Flutter stateless widgets to design the user interface.
-- How to use Flutter stateful widgets to update the user interface.
-- How to change the properties of various widgets.
-- How to use onPressed listeners to detect when buttons are pressed.
-- How to use setState to mark the widget tree as dirty and requiring update on the next render.
-- How to use Expanded to make widgets adapt to screen dimensions.
-- Understand and use string interpolation.
-- Learn about basic dart programming concepts such as data types and functions.
-- Code and use gesture controls.
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+Utilizing Flutter stateless widgets to design the user interface with simplicity and efficiency.
+Implementing Flutter stateful widgets to dynamically update and modify the user interface as required.
+Manipulating the properties of different widgets to achieve the desired visual effects and behavior.
+Implementing onPressed listeners to detect and respond to button presses effectively.
+Utilizing setState to notify the framework that the widget tree needs to be updated and re-rendered.
+Leveraging the power of the Expanded widget to create adaptive layouts that adjust to different screen dimensions.
+Understanding and employing string interpolation to combine variables and text efficiently.
+Gaining familiarity with fundamental Dart programming concepts, including data types and functions.
+Implementing gesture controls to enhance the interactivity and user experience of the app.
+I am grateful for this learning opportunity and would like to acknowledge The App Brewery's Complete Flutter Development Bootcamp, which provided comprehensive guidance and support throughout this project. I highly recommend the course to anyone interested in Flutter app development.
